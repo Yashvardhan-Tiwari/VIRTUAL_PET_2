@@ -1,1 +1,2 @@
-# VIRTUAL_PET_2
+# synchronousBallMovement
+Ball moving synchronously
